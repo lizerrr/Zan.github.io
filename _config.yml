@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "LI Zan (李赞)"
 description              : "Focusing on wirelss communications."
-repository               : "Zan/Zan.github.io"
+repository               : "lizerrr/Zan.github.io"
 google_scholar_stats_use_cdn : true
 url                      : "https://lizerrr.github.io/ZanLI.github.io"
 baseurl                  : "/ZanLI.github.io"
