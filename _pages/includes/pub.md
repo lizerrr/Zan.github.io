@@ -6,11 +6,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJAP 2025</div><img src='images/phase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://ieeexplore.ieee.org/document/10947014) \\
-**Z. Li**, A. Dubey and R. Murch
+[The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://www.researchgate.net/publication/390403621) \\
+🧑‍🎓 **Z. Li**, A. Dubey and R. Murch
 
-- **Abstract**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- **Abstract**: In this work, we improve a RSS-based EM property estimation wireless sensing system by incorporating phase information which is widely available in wireless system. Simulation results and theoretical analysis (CRB) demonstrate that the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
+- **IEEE Bibtex** Z. Li, A. Dubey and R. Murch, "The Impact of Phase Information on the Imaging Performance of the Extended Phaseless Rytov Approximation," in IEEE Open Journal of Antennas and Propagation, vol. 6, no. 4, pp. 989-1000, Aug. 2025, doi: 10.1109/OJAP.2025.3556848.
 </div>
 </div>
 
