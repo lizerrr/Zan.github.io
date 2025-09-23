@@ -2,7 +2,6 @@
 # 📝 Publications 
 ## 🖋 First-author works
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJAP 2025</div><img src='images/phase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -21,7 +20,7 @@
 🧑🏻‍🎓 **Z. Li**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
 - **Abstract**: In this work, we proposed a novel RIS-assisted device-free sensing 2-D imaging system, named RIS-RTI, which can image the radio frequency attenuation of physical objects
-in the environment. By incorporating additional radio links provided by RIS, the RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction. Additionally, the Cramér-Rao lower bound (CRB) of the sensing error is derived to theoretically demonstrate the benefits of RISs. 
+in the environment. By incorporating additional radio links provided by RIS, the RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction. Additionally, the Cramér-Rao lower bound (CRB) of the sensing error is derived to theoretically demonstrate the benefits of RISs.
 - **IEEE Bibtex**: Z. Li, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch, "Radio Tomographic Imaging With Reconfigurable Intelligent Surfaces," in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 15784-15797, Nov. 2024, doi: 10.1109/TWC.2024.3433011.
 </div>
 </div>
@@ -33,37 +32,15 @@ in the environment. By incorporating additional radio links provided by RIS, the
 🚩 [Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
 🧑🏻‍🎓 **Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
-- **Abstract**: In this work, we analyze the system performance of a RIS-assisted wireless communication system, when the RIS has a compact design, and group stradegy is adopted. By deriving the closed-form statistical properties of the received SNR and the system performance metrics, we theoretically demonstrate that the element grouping strategy performs better in correlated channels compared to uncorrelated ones. 
+- **Abstract**: In this work, we analyze the system performance of a RIS-assisted wireless communication system, when the RIS has a compact design, and group stradegy is adopted. By deriving the closed-form statistical properties of the received SNR and the system performance metrics, we theoretically demonstrate that the element grouping strategy performs better in correlated channels compared to uncorrelated ones.
+- This work is selected within the popular articles for WCL in April 2023.
 - **IEEE Bibtex**: Z. Li, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch, "Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation," in IEEE Wireless Communications Letters, vol. 12, no. 4, pp. 630-634, April 2023, doi: 10.1109/LWC.2023.3237232.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
-</div>
-</div>
-
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+## 🖋 others
+---
+- `WCL 2022` [Optimal Grouping Strategy for Reconfigurable Intelligent Surface Assisted Wireless Communications](https://www.researchgate.net/publication/356456505), N. K. Kundu, **Z. Li**, J. Rao, S. Shen, M. R. McKay and R. Murch, in IEEE Wireless Communications Letters, vol. 11, no. 5, pp. 1082-1086, May 2022, doi: 10.1109/LWC.2022.3156978.
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
