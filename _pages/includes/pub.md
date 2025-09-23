@@ -29,10 +29,10 @@ in the environment. By incorporating additional radio links provided by RIS, the
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/Correlated.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🚩 [Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ \\
+🚩 [Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\
 🧑🏻‍🎓 **Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
-- **Abstract**: In this work, we analyze the system performance of a RIS-assisted wireless communication system, when the RIS has a compact design, and group stradegy is adopted. By deriving the closed-form statistical properties of the received SNR and the system performance metrics, we theoretically demonstrate that the element grouping strategy performs better in correlated channels compared to uncorrelated ones.
+- **Abstract**: In this work, we derive the closed-form statistical properties of the received SNR and the system performance metrics, which theoretically demonstrate that the element grouping strategy performs better in correlated channels compared to uncorrelated ones.
 - This work is selected within the popular articles for WCL in April 2023.
 - **IEEE Bibtex**: Z. Li, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch, "Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation," in IEEE Wireless Communications Letters, vol. 12, no. 4, pp. 630-634, April 2023, doi: 10.1109/LWC.2023.3237232.
 </div>
