@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id="about"></h2>
-<span class='anchor' id='about-me'></span>
+<h2 id="about-me"></h2>
+%<span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
-<span class='anchor' id='Educations'></span>
+%<span class='anchor' id='Educations'></span>
+<h2 id="Educations"></h2>
 {% include_relative includes/others.md %}
 
-<span class='anchor' id='honors-and-awards'></span>
+<h2 id="honors-and-awards"></h2>
 {% include_relative includes/honers.md %}
 
-<span class='anchor' id='Publications'></span>
+<h2 id="Publications"></h2>
 {% include_relative includes/pub.md %}
