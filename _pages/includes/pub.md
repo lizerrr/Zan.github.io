@@ -27,15 +27,14 @@ in the environment. By incorporating additional radio links provided by RIS, the
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/Correlated.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+🚩 [Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
+🧑🏻‍🎓 **Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
+- **Abstract**: In this work, we analyze the system performance of a RIS-assisted wireless communication system, when the RIS has a compact design, and group stradegy is adopted. By deriving the closed-form statistical properties of the received SNR and the system performance metrics, we theoretically demonstrate that the element grouping strategy performs better in correlated channels compared to uncorrelated ones. 
+- **IEEE Bibtex**: Z. Li, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch, "Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation," in IEEE Wireless Communications Letters, vol. 12, no. 4, pp. 630-634, April 2023, doi: 10.1109/LWC.2023.3237232.
 </div>
 </div>
 
