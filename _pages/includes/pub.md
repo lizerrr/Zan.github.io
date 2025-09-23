@@ -10,7 +10,7 @@
 🧑‍🎓 **Z. Li**, A. Dubey and R. Murch
 
 - **Abstract**: In this work, we improve a RSS-based EM property estimation wireless sensing system by incorporating phase information which is widely available in wireless system. Simulation results and theoretical analysis (CRB) demonstrate that the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
-- **IEEE Bibtex** Z. Li, A. Dubey and R. Murch, "The Impact of Phase Information on the Imaging Performance of the Extended Phaseless Rytov Approximation," in IEEE Open Journal of Antennas and Propagation, vol. 6, no. 4, pp. 989-1000, Aug. 2025, doi: 10.1109/OJAP.2025.3556848.
+- **IEEE Bibtex**: Z. Li, A. Dubey and R. Murch, "The Impact of Phase Information on the Imaging Performance of the Extended Phaseless Rytov Approximation," in IEEE Open Journal of Antennas and Propagation, vol. 6, no. 4, pp. 989-1000, Aug. 2025, doi: 10.1109/OJAP.2025.3556848.
 </div>
 </div>
 
