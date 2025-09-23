@@ -29,7 +29,7 @@ in the environment. By incorporating additional radio links provided by RIS, the
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/Correlated.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🚩 [Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
+🚩 [Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ \\
 🧑🏻‍🎓 **Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
 - **Abstract**: In this work, we analyze the system performance of a RIS-assisted wireless communication system, when the RIS has a compact design, and group stradegy is adopted. By deriving the closed-form statistical properties of the received SNR and the system performance metrics, we theoretically demonstrate that the element grouping strategy performs better in correlated channels compared to uncorrelated ones.
