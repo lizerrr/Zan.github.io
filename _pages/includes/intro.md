@@ -4,4 +4,4 @@ My work in Ph.D period is primarily focused on the integrated sensing and commun
 
 I will join Huawei's 2012 Wireless Technology Laboratory (华为2012无线技术实验室) soon.
 
-I am updating my paper-sharing videos on RedNote (小红书). In these videos, I select interesting and important papers that I have read on wireless communication area and briefly introduce their most significant aspects in 5 to 8 minutes. You can check [here](https://www.xiaohongshu.com/user/profile/6533982a000000002a03687e) for more details.
+I am updating my **paper-sharing** videos on RedNote (小红书). In these videos, I select interesting and important papers that I have read on wireless communication area and briefly introduce their most significant aspects in 5 to 8 minutes. You can check [here](https://www.xiaohongshu.com/user/profile/6533982a000000002a03687e) for more details.
