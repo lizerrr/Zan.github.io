@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJAP 2025</div><img src='images/phase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://www.researchgate.net/publication/390403621) \\
+🚩 [The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://www.researchgate.net/publication/390403621) \\
 🧑🏻‍🎓 **Z. Li**, A. Dubey and R. Murch
 
 - **Abstract**: In this work, we improve a RSS-based EM property estimation wireless sensing system by incorporating phase information which is widely available in wireless system. Simulation results and theoretical analysis (CRB) demonstrate that the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
@@ -17,10 +17,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2024</div><img src='images/RIS_RTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Radio Tomographic Imaging With Reconfigurable Intelligent Surfaces](https://www.researchgate.net/publication/382748000) \\
+🚩 [Radio Tomographic Imaging With Reconfigurable Intelligent Surfaces](https://www.researchgate.net/publication/382748000) \\
 🧑🏻‍🎓 **Z. Li**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
-- **Abstract**: In this work, we proposed a novel RIS-assisted device-free sensing 2-D imaging system, named RIS-RTI. By incorporating additional radio links provided by RIS, the RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction. 
+- **Abstract**: In this work, we proposed a novel RIS-assisted device-free sensing 2-D imaging system, named RIS-RTI, which can image the radio frequency attenuation of physical objects
+in the environment. By incorporating additional radio links provided by RIS, the RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction. Additionally, the Cramér-Rao lower bound (CRB) of the sensing error is derived to theoretically demonstrate the benefits of RISs. 
 - **IEEE Bibtex**: Z. Li, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch, "Radio Tomographic Imaging With Reconfigurable Intelligent Surfaces," in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 15784-15797, Nov. 2024, doi: 10.1109/TWC.2024.3433011.
 </div>
 </div>
