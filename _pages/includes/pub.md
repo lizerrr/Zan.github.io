@@ -41,7 +41,7 @@ in the environment. By incorporating additional radio links provided by RIS, the
 ## 🖋 others
 ---
 - `WCL 2022` [Optimal Grouping Strategy for Reconfigurable Intelligent Surface Assisted Wireless Communications](https://www.researchgate.net/publication/356456505), N. K. Kundu, **Z. Li**, J. Rao, S. Shen, M. R. McKay and R. Murch, in IEEE Wireless Communications Letters, vol. 11, no. 5, pp. 1082-1086, May 2022, doi: 10.1109/LWC.2022.3156978.
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
+- ``TAP 2024`` [Reconciling Radio Tomographic Imaging with Phaseless Inverse Scattering](https://arxiv.org/pdf/2311.09633), A. Dubey, **Z. Li** and R. Murch, in IEEE Transactions on Antennas and Propagation, vol. 72, no. 2, pp. 1837-1849, Feb. 2024, doi: 10.1109/TAP.2023.3342827.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
