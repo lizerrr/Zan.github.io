@@ -7,19 +7,18 @@
 <div class='paper-box-text' markdown="1">
 
 [The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://www.researchgate.net/publication/390403621) \\
-🧑‍🎓 **Z. Li**, A. Dubey and R. Murch
+🧑🏻‍🎓 **Z. Li**, A. Dubey and R. Murch
 
 - **Abstract**: In this work, we improve a RSS-based EM property estimation wireless sensing system by incorporating phase information which is widely available in wireless system. Simulation results and theoretical analysis (CRB) demonstrate that the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
 - **IEEE Bibtex**: Z. Li, A. Dubey and R. Murch, "The Impact of Phase Information on the Imaging Performance of the Extended Phaseless Rytov Approximation," in IEEE Open Journal of Antennas and Propagation, vol. 6, no. 4, pp. 989-1000, Aug. 2025, doi: 10.1109/OJAP.2025.3556848.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2024</div><img src='images/RIS_RTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Radio Tomographic Imaging With Reconfigurable Intelligent Surfaces](https://www.researchgate.net/publication/382748000) \\
+🧑🏻‍🎓 **Z. Li**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
 [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
   - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
