@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "_pages/about.md/#about-me"
+    url: "/#about-me"
 
   - title: "About he"
-    url: "#honers"
+    url: "/#Educations"
 
   #- title: "News"
   # url: "/#-news"
